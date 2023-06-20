@@ -1,5 +1,8 @@
 # Getting Started with Create React App
+## Hi there,
+#### I'm Pranav Kastury and this is my assignment submission to Savvy. 
 
+#### I'm leaving below the default React Js .md text
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
